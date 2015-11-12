@@ -1,0 +1,15 @@
+D:\Proking\LG 项目\LG网口程序\LGNetWorkSystem\LGNetWorkSystem\bin\Debug\LGNetWorkSystem.exe
+D:\Proking\LG 项目\LG网口程序\LGNetWorkSystem\LGNetWorkSystem\bin\Debug\LGNetWorkSystem.pdb
+D:\Proking\LG 项目\LG网口程序\LGNetWorkSystem\LGNetWorkSystem\bin\Debug\ProkingNet.dll
+D:\Proking\LG 项目\LG网口程序\LGNetWorkSystem\LGNetWorkSystem\bin\Debug\ProkingNet.pdb
+D:\Proking\LG 项目\LG网口程序\LGNetWorkSystem\LGNetWorkSystem\obj\Debug\ResolveAssemblyReference.cache
+D:\Proking\LG 项目\LG网口程序\LGNetWorkSystem\LGNetWorkSystem\obj\Debug\LGNetWorkSystem.FrmMain.resources
+D:\Proking\LG 项目\LG网口程序\LGNetWorkSystem\LGNetWorkSystem\obj\Debug\LGNetWorkSystem.Properties.Resources.resources
+D:\Proking\LG 项目\LG网口程序\LGNetWorkSystem\LGNetWorkSystem\obj\Debug\LGNetWorkSystem.csproj.GenerateResource.Cache
+D:\Proking\LG 项目\LG网口程序\LGNetWorkSystem\LGNetWorkSystem\obj\Debug\LGNetWorkSystem.exe
+D:\Proking\LG 项目\LG网口程序\LGNetWorkSystem\LGNetWorkSystem\obj\Debug\LGNetWorkSystem.pdb
+D:\Proking\LG 项目\LG网口程序\LGNetWorkSystem\LGNetWorkSystem\bin\Debug\DevComponents.DotNetBar2.dll
+D:\Proking\LG 项目\LG网口程序\LGNetWorkSystem\LGNetWorkSystem\bin\Debug\DevComponents.DotNetBar2.xml
+D:\Proking\LG 项目\LG网口程序\LGNetWorkSystem\LGNetWorkSystem\obj\Debug\LGNetWorkSystem.FrmBarcodeRule.resources
+D:\Proking\LG 项目\LG网口程序\LGNetWorkSystem\LGNetWorkSystem\bin\Debug\AppConfig.config
+D:\Proking\LG 项目\LG网口程序\LGNetWorkSystem\LGNetWorkSystem\bin\Debug\XMLConfig.dll
